@@ -1,2 +1,2 @@
-line #1 : this change is done is main ( c1 commit message)
+line #1 *modified : this change is done is main ( c1 commit *)
 line #A : this change is done is main second commit ( c2Master: commit message)
